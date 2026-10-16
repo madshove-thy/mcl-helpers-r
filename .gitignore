@@ -1,0 +1,10 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Never commit collected MCL data
+*.rds
+*.csv
+*.parquet
+data/
